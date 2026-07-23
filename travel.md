@@ -1,6 +1,6 @@
 # December 2026 Motorcycle Trip Options
 
-**Trip window:** 3-7 December 2026  
+**Trip window:** 2-6 December 2026  
 **Start / end:** Singapore  
 **Planning style:** roughly 75% transit on major roads, then the final 25% of each riding day on more scenic or more interesting roads when weather allows  
 **Food style:** mix of local hawker, cafe, and easy quick-stop options  
@@ -45,11 +45,11 @@
 
 | Day | Route | Riding character | Best overnight goal |
 |---|---|---|---|
-| **Day 1 - Thu, 3 Dec** | Singapore -> Ipoh | Long highway day with a mild scenic finish into town | Ipoh |
-| **Day 2 - Fri, 4 Dec** | Ipoh -> HatYai | Fast transit day, light scenic finish only | HatYai |
-| **Day 3 - Sat, 5 Dec** | HatYai -> Penang | Border day, simple highway return, better scenic finish near Penang | Penang |
-| **Day 4 - Sun, 6 Dec** | Penang -> Fraser Hill or Genting | Best scenic day on this loop if you pick Fraser Hill | Fraser Hill or Genting |
-| **Day 5 - Mon, 7 Dec** | Fraser Hill / Genting -> Singapore | Mostly direct return | Singapore |
+| **Day 1 - Wed, 2 Dec** | Singapore -> Ipoh | Long highway day with a mild scenic finish into town | Ipoh |
+| **Day 2 - Thu, 3 Dec** | Ipoh -> HatYai | Fast transit day, light scenic finish only | HatYai |
+| **Day 3 - Fri, 4 Dec** | HatYai -> Penang | Border day, simple highway return, better scenic finish near Penang | Penang |
+| **Day 4 - Sat, 5 Dec** | Penang -> Fraser Hill or Genting | Best scenic day on this loop if you pick Fraser Hill | Fraser Hill or Genting |
+| **Day 5 - Sun, 6 Dec** | Fraser Hill / Genting -> Singapore | Mostly direct return | Singapore |
 
 ### Estimated distance and riding hours
 
@@ -207,11 +207,11 @@ The original Betong sketch compressed the route more aggressively. The more ride
 
 | Day | Route | Riding character | Best overnight goal |
 |---|---|---|---|
-| **Day 1 - Thu, 3 Dec** | Singapore -> Ipoh | Long highway day | Ipoh |
-| **Day 2 - Fri, 4 Dec** | Ipoh -> Betong | Highway first, then meaningful scenic/trunk-road section | Betong |
-| **Day 3 - Sat, 5 Dec** | Betong -> Penang | Mixed mountain exit and highway return | Penang |
-| **Day 4 - Sun, 6 Dec** | Penang -> Fraser Hill or Genting | Best final scenic day | Fraser Hill or Genting |
-| **Day 5 - Mon, 7 Dec** | Fraser Hill / Genting -> Singapore | Direct return | Singapore |
+| **Day 1 - Wed, 2 Dec** | Singapore -> Ipoh | Long highway day | Ipoh |
+| **Day 2 - Thu, 3 Dec** | Ipoh -> Betong | Highway first, then meaningful scenic/trunk-road section | Betong |
+| **Day 3 - Fri, 4 Dec** | Betong -> Penang | Mixed mountain exit and highway return | Penang |
+| **Day 4 - Sat, 5 Dec** | Penang -> Fraser Hill or Genting | Best final scenic day | Fraser Hill or Genting |
+| **Day 5 - Sun, 6 Dec** | Fraser Hill / Genting -> Singapore | Direct return | Singapore |
 
 If you must compress, the toughest compression is to combine `Betong -> Penang` into a longer day without extra sightseeing.
 
@@ -300,11 +300,11 @@ Use the same Day 5 plan as the HatYai option.
 
 | Day | Route | Riding character | Best overnight goal |
 |---|---|---|---|
-| **Day 1 - Thu, 3 Dec** | Singapore -> Kuala Lumpur | Fast transit day with optional twisty finish on the city outskirts | Kuala Lumpur |
-| **Day 2 - Fri, 4 Dec** | Kuala Lumpur -> Penang | Long expressway day with optional scenic island-side finish | Penang |
-| **Day 3 - Sat, 5 Dec** | Penang -> Ipoh | Shorter distance day, good food focus, optional old-road scenic approach | Ipoh |
-| **Day 4 - Sun, 6 Dec** | Ipoh -> Malacca | Long southbound transit with optional old-town finish | Malacca |
-| **Day 5 - Mon, 7 Dec** | Malacca -> Singapore | Easiest return day | Singapore |
+| **Day 1 - Wed, 2 Dec** | Singapore -> Kuala Lumpur | Fast transit day with optional twisty finish on the city outskirts | Kuala Lumpur |
+| **Day 2 - Thu, 3 Dec** | Kuala Lumpur -> Penang | Long expressway day with optional scenic island-side finish | Penang |
+| **Day 3 - Fri, 4 Dec** | Penang -> Ipoh | Shorter distance day, good food focus, optional old-road scenic approach | Ipoh |
+| **Day 4 - Sat, 5 Dec** | Ipoh -> Malacca | Long southbound transit with optional old-town finish | Malacca |
+| **Day 5 - Sun, 6 Dec** | Malacca -> Singapore | Easiest return day | Singapore |
 
 ### Estimated distance and riding hours
 
@@ -436,116 +436,6 @@ Use the same Day 5 plan as the HatYai option.
 - This should be your cleanest and simplest return day.
 - Save any long lunch for after border conditions look predictable.
 
----
-
-## Food Planning by Overnight Stop
-
-Use this as a simple rule-of-thumb when booking hotels.
-
-| Overnight stop | Breakfast preference | Lunch detour style | Dinner style |
-|---|---|---|---|
-| **Ipoh** | Kopitiam / dim sum within 2-5 km of hotel | Tapah / Kampar / Bidor town food | Classic Ipoh local dinner |
-| **HatYai** | Hotel breakfast or central morning market area | Jitra / Alor Setar / Changlun before border | Thai market, casual grill, or easy cafe |
-| **Betong** | Market breakfast or simple hotel breakfast | Lenggong / Gerik on the way in, Baling / Kulim on the way out | Town-center Thai comfort food |
-| **Kuala Lumpur** | Hotel breakfast, kopitiam, mamak, or cafe within 2-5 km of hotel | Seremban / Nilai / south-KL fringe depending on direction | City-fringe dining, mall dining, or central food street dinner |
-| **Penang** | Kopitiam or bakery near George Town hotel | Juru / Bukit Mertajam / Slim River depending on direction | Hawker dinner or cafe recovery meal |
-| **Fraser Hill** | Hotel breakfast is easiest | Usually lunch on the way down the next day | Quiet, simple, early dinner |
-| **Genting** | Hotel / bakery / coffee chain | Usually lunch on the way down the next day | Easy chain or mall dining |
-| **Malacca** | Hotel breakfast, cafe, or old-town kopi start | Seremban / Ayer Keroh / JB outskirts depending on direction | Peranakan dinner, riverside cafe, or heritage-area food |
-
-### Concrete breakfast and lunch shortlist by town
-
-These are **target town types** rather than pinned shop names, so you can match them to your final hotel and live opening hours.
-
-#### Ipoh
-
-**Breakfast shortlist**
-- `Old Town hotel zone`: kopi, soft-boiled eggs, toast, hor fun.
-- `Dim sum streets / morning shoplots`: better if the group starts a little later.
-- `New town cafe row`: easiest parking and fastest rollout.
-
-**Lunch shortlist if arriving northbound**
-- `Tapah town`: good for a first proper meal if breakfast was light.
-- `Kampar`: stronger food detour if the group is happy to leave the expressway briefly.
-- `Bidor / Sungkai`: practical lunch if you want to keep the day efficient.
-
-#### HatYai
-
-**Breakfast shortlist**
-- `Central HatYai market area`: porridge, noodles, soy milk, kopi.
-- `Hotel breakfast`: best option if you want a fast border-bound start.
-- `Cafe strip near commercial zone`: useful for coffee-first riders.
-
-**Lunch shortlist if riding in from Malaysia**
-- `Changlun`: simplest pre-border lunch with low navigation stress.
-- `Jitra`: slightly better local choice set if you want more variety.
-- `Alor Setar outskirts`: best if the group wants a more complete sit-down lunch before the border.
-
-#### Betong
-
-**Breakfast shortlist**
-- `Town market`: porridge, noodle soup, Thai coffee, roti.
-- `Hotel breakfast`: safest option if leaving early in mist or rain.
-- `Bakery / cafe cluster`: good for a lighter start.
-
-**Lunch shortlist if riding in from Ipoh**
-- `Lenggong`: scenic, calmer, good if you want a real break before the inland run.
-- `Gerik`: best balance of fuel, food, and convenience.
-
-**Lunch shortlist if riding out toward Penang**
-- `Baling`: good if you want to eat before rejoining the faster corridor.
-- `Kulim`: better variety and cleaner urban lunch options.
-
-#### Penang
-
-**Breakfast shortlist**
-- `George Town kopitiam belt`: local breakfast if hotel is central.
-- `Bakery + coffee near hotel`: easiest for a quick departure day.
-- `Hotel breakfast`: sensible on the Penang -> highlands day.
-
-**Lunch shortlist northbound / inbound**
-- `Bukit Mertajam / Juru`: best mixed stop for parking, food variety, and easy access.
-- `Sungai Petani`: practical if you want to stop earlier.
-
-**Lunch shortlist southbound / outbound**
-- `Slim River`: shortest detour and efficient restart.
-- `Tanjung Malim`: slightly better town lunch feel.
-- `Rawang north side`: good last substantial meal before climbing to the highlands.
-
-#### Kuala Lumpur
-
-**Breakfast shortlist**
-- `Hotel breakfast`: easiest if staying in the city center.
-- `Mamak / kopitiam cluster`: good for a fast local breakfast.
-- `Cafe row near the hotel`: better for riders who just want coffee and eggs before moving.
-
-**Lunch shortlist if riding north to Penang**
-- `Ipoh south side`: best meal quality if you do not mind a longer first stint.
-- `Taiping`: calmer lunch town before the final Penang push.
-- `Bukit Mertajam / Juru`: best if you want to finish most of the day before lunch.
-
-#### Malacca
-
-**Breakfast shortlist**
-- `Jonker / heritage-adjacent kopi breakfast`: nice if the hotel is within walking distance.
-- `Hotel breakfast`: best if you want to leave early and stay efficient.
-- `Cafe / bakery start`: easiest on the stomach before the ride home.
-
-**Lunch shortlist if riding south to Singapore**
-- `Ayer Keroh`: efficient and low stress.
-- `Johor Bahru outskirts`: good if you prefer to complete most of the distance first.
-- Keep bigger detours optional because the final border timing matters more than a fancy lunch.
-
-#### Fraser Hill / Genting return leg
-
-**Breakfast shortlist**
-- `Fraser Hill hotel dining`: easiest and most time-efficient.
-- `Genting bakery / coffee chain / hotel buffet`: easy rollout with predictable opening hours.
-
-**Lunch shortlist on the ride back south**
-- `Seremban`: strongest balanced lunch stop on the way home.
-- `Ayer Keroh / Melaka belt`: best if you prefer a longer first riding block.
-- `Johor north / JB outskirts`: only if you want a short final hop into Singapore.
 
 ---
 

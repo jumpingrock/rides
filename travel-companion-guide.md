@@ -1,5 +1,6 @@
 # December 2026 Motorcycle Trip Companion Guide
 
+**Trip window:** 2-6 December 2026  
 **Companion to:** `travel.md`  
 **Purpose:** help the group compare all 3 route options quickly, choose hotel areas that make breakfast and parking easier, lock in realistic departure windows, and run a final bike/document prep.
 
