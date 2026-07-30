@@ -1,0 +1,211 @@
+<svg width="2000" height="1500" viewBox="0 0 1600 1200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">December 2026 Motorcycle Trip Options Summary</title>
+  <desc id="desc">Infographic comparing Option A Kuantan Ipoh Malacca east coast loop, Option B Betong loop, and Option C Mersing Genting Malacca loop for a Singapore motorcycle trip.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1200" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1E3A8A"/>
+      <stop offset="0.38" stop-color="#2563EB"/>
+      <stop offset="0.72" stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#FB7185"/>
+    </linearGradient>
+    <linearGradient id="horizon" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FDE68A" stop-opacity="0.22"/>
+      <stop offset="0.5" stop-color="#FFF7ED" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#FDBA74" stop-opacity="0.18"/>
+    </linearGradient>
+    <linearGradient id="cardA" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#60A5FA"/>
+      <stop offset="0.55" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <linearGradient id="cardB" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FB923C"/>
+      <stop offset="0.52" stop-color="#F97316"/>
+      <stop offset="1" stop-color="#F43F5E"/>
+    </linearGradient>
+    <linearGradient id="cardC" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#34D399"/>
+      <stop offset="0.55" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+    <linearGradient id="cardShine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.24"/>
+      <stop offset="0.35" stop-color="#FFFFFF" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.03"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#020617" flood-opacity="0.28"/>
+    </filter>
+    <style>
+      .title { font: 700 52px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #F8FAFC; }
+      .subtitle { font: 400 22px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #CBD5E1; }
+      .section { font: 700 22px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #E2E8F0; }
+      .cardTitle { font: 800 34px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #FFFFFF; }
+      .cardRoute { font: 500 18px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #DBEAFE; }
+      .label { font: 700 16px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #E2E8F0; }
+      .value { font: 400 16px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #F8FAFC; }
+      .bullet { font: 400 16px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #E5E7EB; }
+      .small { font: 500 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #CBD5E1; }
+      .footer { font: 500 16px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; fill: #94A3B8; }
+      .pillText { font: 700 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+      .pillCenter { text-anchor: middle; dominant-baseline: middle; }
+      .line20 { line-height: 20px; }
+      .line24 { line-height: 24px; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="1200" fill="url(#bg)"/>
+  <circle cx="1320" cy="170" r="150" fill="#FFF7ED" fill-opacity="0.35"/>
+  <circle cx="1320" cy="170" r="105" fill="#FDE68A" fill-opacity="0.45"/>
+  <ellipse cx="800" cy="285" rx="760" ry="120" fill="url(#horizon)"/>
+  <circle cx="180" cy="980" r="210" fill="#F97316" fill-opacity="0.14"/>
+  <circle cx="1465" cy="925" r="230" fill="#2DD4BF" fill-opacity="0.14"/>
+  <path d="M0 930C120 860 235 830 360 842C505 856 566 924 694 927C847 930 925 841 1088 842C1245 844 1339 927 1600 872V1200H0V930Z" fill="#134E4A" fill-opacity="0.26"/>
+  <path d="M0 1005C141 952 247 935 359 945C489 956 595 1006 725 1002C869 997 941 946 1085 946C1254 946 1381 1000 1600 958V1200H0V1005Z" fill="#166534" fill-opacity="0.22"/>
+  <path d="M0 1090C185 1050 300 1029 434 1035C603 1042 701 1091 838 1092C997 1094 1085 1040 1237 1044C1373 1048 1496 1080 1600 1068V1200H0V1090Z" fill="#111827" fill-opacity="0.20"/>
+  <path d="M116 1115C284 1042 454 995 649 968C858 939 1045 938 1235 974C1353 997 1442 1022 1524 1068" stroke="#F8FAFC" stroke-opacity="0.22" stroke-width="8" stroke-linecap="round"/>
+  <path d="M1286 93C1308 105 1321 126 1324 149" stroke="#FFF7ED" stroke-opacity="0.55" stroke-width="4" stroke-linecap="round"/>
+  <path d="M157 200C183 181 217 177 244 189" stroke="#FFFFFF" stroke-opacity="0.2" stroke-width="5" stroke-linecap="round"/>
+  <path d="M300 155C324 139 356 138 380 151" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="4" stroke-linecap="round"/>
+
+  <text x="90" y="110" class="title">December 2026 Motorcycle Trip Options</text>
+  <text x="90" y="150" class="subtitle">2–6 December 2026 • Singapore start/end • highway-first with short scenic finishes</text>
+
+  <rect x="90" y="200" width="1420" height="88" rx="24" fill="#0B1220" fill-opacity="0.42" stroke="#F8FAFC" stroke-opacity="0.16"/>
+  <text x="125" y="237" class="section">Quick legend</text>
+  <text x="125" y="267" class="small">Difficulty: lower means easier pacing. Scenic quality: higher means more satisfying bends. Weather resilience: higher means easier rain fallback.</text>
+
+  <g filter="url(#shadow)">
+    <rect x="90" y="330" width="440" height="690" rx="28" fill="url(#cardA)"/>
+    <rect x="580" y="330" width="440" height="690" rx="28" fill="url(#cardB)"/>
+    <rect x="1070" y="330" width="440" height="690" rx="28" fill="url(#cardC)"/>
+    <rect x="108" y="348" width="404" height="654" rx="22" fill="url(#cardShine)" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <rect x="598" y="348" width="404" height="654" rx="22" fill="url(#cardShine)" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <rect x="1088" y="348" width="404" height="654" rx="22" fill="url(#cardShine)" stroke="#FFFFFF" stroke-opacity="0.14"/>
+  </g>
+
+  <!-- Option A -->
+  <text x="125" y="390" class="cardTitle">Option A · East Coast Loop</text>
+  <text x="125" y="420" class="cardRoute">
+    <tspan x="125" dy="0">Singapore → Kuantan → Ipoh</tspan>
+    <tspan x="125" dy="22">→ Malacca → Singapore</tspan>
+  </text>
+  <rect x="125" y="448" width="102" height="30" rx="15" fill="#DBEAFE"/>
+  <text x="176" y="463" class="pillText pillCenter" fill="#1E3A8A">East coast</text>
+  <rect x="237" y="448" width="98" height="30" rx="15" fill="#DCFCE7"/>
+  <text x="286" y="463" class="pillText pillCenter" fill="#166534">No border</text>
+  <rect x="345" y="448" width="100" height="30" rx="15" fill="#FDE68A"/>
+  <text x="395" y="463" class="pillText pillCenter" fill="#854D0E">Scenic day</text>
+
+  <text x="125" y="518" class="label">Best for</text>
+  <text x="125" y="546" class="value">
+    <tspan x="125" dy="0">East coast start, Cameron Highlands</tspan>
+    <tspan x="125" dy="22">cross-country, no Thailand border.</tspan>
+  </text>
+
+  <text x="125" y="594" class="label">Trip character</text>
+  <text x="125" y="622" class="bullet">• Easy first day on the quiet Route 3 coast</text>
+  <text x="125" y="650" class="bullet">• Day 2 Pahang cross-country is the scenic highlight</text>
+  <text x="125" y="678" class="bullet">• Good food spread: Kuantan, Ipoh, Malacca</text>
+
+  <text x="125" y="732" class="label">Ratings</text>
+  <text x="125" y="760" class="value">Riding difficulty: 2 / 5</text>
+  <text x="125" y="788" class="value">Food focus: 4 / 5</text>
+  <text x="125" y="816" class="value">Scenic / twisty payoff: 3 / 5</text>
+  <text x="125" y="844" class="value">Weather resilience: 4 / 5</text>
+
+  <text x="125" y="898" class="label">Best choice when</text>
+  <text x="125" y="926" class="bullet">
+    <tspan x="125" dy="0">• the group wants the east coast feel</tspan>
+    <tspan x="125" dy="22">  without crossing into Thailand</tspan>
+  </text>
+  <text x="125" y="968" class="bullet">• a highland cross-country day is the scenic goal</text>
+  <text x="125" y="996" class="bullet">• 4-day loop with a buffer day on Day 5</text>
+
+  <!-- Option B -->
+  <text x="615" y="390" class="cardTitle">Option B · Betong Loop</text>
+  <text x="615" y="420" class="cardRoute">
+    <tspan x="615" dy="0">Singapore → Ipoh → Betong</tspan>
+    <tspan x="615" dy="22">→ Fraser Hill / Genting → Singapore</tspan>
+  </text>
+  <rect x="615" y="448" width="124" height="30" rx="15" fill="#FED7AA"/>
+  <text x="677" y="463" class="pillText pillCenter" fill="#9A3412">Best riding</text>
+  <rect x="749" y="448" width="88" height="30" rx="15" fill="#DCFCE7"/>
+  <text x="793" y="463" class="pillText pillCenter" fill="#166534">Food high</text>
+  <rect x="847" y="448" width="136" height="30" rx="15" fill="#F3E8FF"/>
+  <text x="915" y="463" class="pillText pillCenter" fill="#6B21A8">More effort</text>
+
+  <text x="615" y="518" class="label">Best for</text>
+  <text x="615" y="546" class="value">
+    <tspan x="615" dy="0">Riders who want the best actual</tspan>
+    <tspan x="615" dy="22">road feel and better bends.</tspan>
+  </text>
+
+  <text x="615" y="594" class="label">Trip character</text>
+  <text x="615" y="622" class="bullet">• Strongest scenic payoff of all 3 options</text>
+  <text x="615" y="650" class="bullet">• Inland run to Betong is slower but more memorable</text>
+  <text x="615" y="678" class="bullet">• Fraser Hill pairing makes this the enthusiast pick</text>
+
+  <text x="615" y="732" class="label">Ratings</text>
+  <text x="615" y="760" class="value">Riding difficulty: 4 / 5</text>
+  <text x="615" y="788" class="value">Food focus: 4 / 5</text>
+  <text x="615" y="816" class="value">Scenic / twisty payoff: 5 / 5</text>
+  <text x="615" y="844" class="value">Weather resilience: 3 / 5</text>
+
+  <text x="615" y="898" class="label">Best choice when</text>
+  <text x="615" y="926" class="bullet">• the group values riding quality over simplest logistics</text>
+  <text x="615" y="954" class="bullet">
+    <tspan x="615" dy="0">• everyone is ready for a hard Day 3</tspan>
+    <tspan x="615" dy="22">  (Gerik corridor + highland climb)</tspan>
+  </text>
+  <text x="615" y="996" class="bullet">• dry weather is likely and scenic sections are the priority</text>
+
+  <!-- Option C -->
+  <text x="1105" y="390" class="cardTitle">Option C · Mersing Loop</text>
+  <text x="1105" y="420" class="cardRoute">
+    <tspan x="1105" dy="0">Singapore → Mersing → Genting</tspan>
+    <tspan x="1105" dy="22">→ Malacca → Singapore</tspan>
+  </text>
+  <rect x="1105" y="448" width="112" height="30" rx="15" fill="#CCFBF1"/>
+  <text x="1161" y="463" class="pillText pillCenter" fill="#115E59">Easiest</text>
+  <rect x="1227" y="448" width="94" height="30" rx="15" fill="#DBEAFE"/>
+  <text x="1274" y="463" class="pillText pillCenter" fill="#1E3A8A">Rest day</text>
+  <rect x="1331" y="448" width="118" height="30" rx="15" fill="#DCFCE7"/>
+  <text x="1390" y="463" class="pillText pillCenter" fill="#166534">Best backup</text>
+
+  <text x="1105" y="518" class="label">Best for</text>
+  <text x="1105" y="546" class="value">
+    <tspan x="1105" dy="0">Lowest mileage loop with a built-in</tspan>
+    <tspan x="1105" dy="22">rest day and no Thailand border.</tspan>
+  </text>
+
+  <text x="1105" y="594" class="label">Trip character</text>
+  <text x="1105" y="622" class="bullet">
+    <tspan x="1105" dy="0">• East coast start, Pahang interior,</tspan>
+    <tspan x="1105" dy="22">  highland stay at Genting</tspan>
+  </text>
+  <text x="1105" y="666" class="bullet">• Rest day absorbs bad weather or fatigue</text>
+  <text x="1105" y="694" class="bullet">• Malacca heritage finish, short return</text>
+
+  <text x="1105" y="732" class="label">Ratings</text>
+  <text x="1105" y="760" class="value">Riding difficulty: 1.5 / 5</text>
+  <text x="1105" y="788" class="value">Food focus: 3 / 5</text>
+  <text x="1105" y="816" class="value">Scenic / twisty payoff: 2.5 / 5</text>
+  <text x="1105" y="844" class="value">Weather resilience: 5 / 5</text>
+
+  <text x="1105" y="898" class="label">Best choice when</text>
+  <text x="1105" y="926" class="bullet">
+    <tspan x="1105" dy="0">• the group wants the lowest stress and</tspan>
+    <tspan x="1105" dy="22">  a true rest day mid-trip</tspan>
+  </text>
+  <text x="1105" y="968" class="bullet">• east coast variety and low mileage matter most</text>
+  <text x="1105" y="996" class="bullet">• weather resilience is the top priority</text>
+
+  <rect x="90" y="1060" width="1420" height="90" rx="24" fill="#0B1220" fill-opacity="0.48" stroke="#F8FAFC" stroke-opacity="0.14"/>
+  <text x="125" y="1105" class="section">Simple decision rule</text>
+  <text x="125" y="1130" class="footer">
+    <tspan x="125" dy="0">Choose Option B for the best ride, Option A for an east coast cross-country day, and Option C for the lowest mileage with a rest day.</tspan>
+  </text>
+</svg>
+
+

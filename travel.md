@@ -32,188 +32,148 @@
 
 ---
 
-## Option A - Singapore -> HatYai -> Penang -> Fraser Hill / Genting -> Singapore
+## Option A - Singapore -> Kuantan -> Ipoh -> Malacca -> Singapore
 
 ### Why choose this loop
 
-- Best if you want a Thailand touchpoint without making the whole trip too technical.
-- Easiest overall pace of the two options.
-- Best food spread across Thailand, Penang, and Ipoh.
-- Least impressive twisty riding of the two, especially on the HatYai leg.
+- East coast start gives the trip a completely different feel from the North-South Expressway grind.
+- No Thailand border, so logistics are simpler and the pace is easier to control.
+- Day 2 cross-country through the Cameron Highlands / Pahang interior is the scenic centrepiece.
+- Good food spread across Kuantan, Ipoh, and Malacca without needing a Thailand leg.
+- 4 riding days means one buffer day within the trip window for weather or slower progress.
 
 ### Route summary
 
 | Day | Route | Riding character | Best overnight goal |
 |---|---|---|---|
-| **Day 1 - Wed, 2 Dec** | Singapore -> Ipoh | Long highway day with a mild scenic finish into town | Ipoh |
-| **Day 2 - Thu, 3 Dec** | Ipoh -> HatYai | Fast transit day, light scenic finish only | HatYai |
-| **Day 3 - Fri, 4 Dec** | HatYai -> Penang | Border day, simple highway return, better scenic finish near Penang | Penang |
-| **Day 4 - Sat, 5 Dec** | Penang -> Fraser Hill or Genting | Best scenic day on this loop if you pick Fraser Hill | Fraser Hill or Genting |
-| **Day 5 - Sun, 6 Dec** | Fraser Hill / Genting -> Singapore | Mostly direct return | Singapore |
+| **Day 1 - Wed, 2 Dec** | Singapore -> Kuantan | Easy east coast warm-up, coastal and quiet | Kuantan |
+| **Day 2 - Thu, 3 Dec** | Kuantan -> Ipoh | Cross-country through Pahang interior, Cameron Highlands approach as scenic finish | Ipoh |
+| **Day 3 - Fri, 4 Dec** | Ipoh -> Malacca | Southbound expressway transit, old-town finish | Malacca |
+| **Day 4 - Sat, 5 Dec** | Malacca -> Singapore | Short clean return | Singapore |
 
 ### Estimated distance and riding hours
 
-| Day | Sector | Approx km | Saddle time only | Realistic day time with fuel + meals + border |
+| Day | Sector | Approx km | Saddle time only | Realistic day time with fuel + meals |
 |---|---|---:|---:|---:|
-| **Day 1** | Singapore -> Ipoh | 560-620 km | 6.5-7.5 hrs | 9-11 hrs |
-| **Day 2** | Ipoh -> HatYai | 330-380 km | 4.5-5.5 hrs | 6.5-8.5 hrs |
-| **Day 3** | HatYai -> Penang | 260-330 km | 4-5 hrs | 6-8 hrs |
-| **Day 4** | Penang -> Fraser Hill | 420-470 km | 5.5-6.5 hrs | 8-9.5 hrs |
-| **Day 4 alt** | Penang -> Genting | 360-420 km | 4.5-5.5 hrs | 7-8.5 hrs |
-| **Day 5** | Fraser Hill -> Singapore | 430-500 km | 6-7 hrs | 8.5-10 hrs |
-| **Day 5 alt** | Genting -> Singapore | 350-390 km | 4.5-5.5 hrs | 7-8.5 hrs |
+| **Day 1** | Singapore -> Kuantan | 260-300 km | 3.5-4.5 hrs | 5.5-7 hrs |
+| **Day 2** | Kuantan -> Ipoh | 350-420 km | 5-6.5 hrs | 7.5-9.5 hrs |
+| **Day 3** | Ipoh -> Malacca | 380-430 km | 5-6 hrs | 7.5-9 hrs |
+| **Day 4** | Malacca -> Singapore | 220-270 km | 3-4 hrs | 5-6.5 hrs |
 
-**Planning note:** Day 1 is long mainly because of border, urban traffic, and meal drag. Day 2 looks shorter on paper, but the border can make it feel longer than expected.
+**Planning note:** Day 1 is deliberately short to let everyone settle in before the harder cross-country day. Day 2 is the most demanding — the Pahang interior is slower than it looks on the map. Day 5 (Sun, 6 Dec) becomes a free buffer day if you want to extend Malacca or recover before returning.
 
-### Day 1 - Singapore to Ipoh
+### Day 1 - Singapore to Kuantan
 
-**Default route (highway-first):** Tuas -> Johor Bahru -> North-South Expressway northbound -> Ipoh  
-**Dry-weather scenic finish:** leave the expressway earlier and use the older Kuala Kangsar -> Route 1 -> Ipoh approach for a more relaxed, small-town entry instead of staying on expressway all the way in.  
-**Rain mode:** remain on the expressway and use the most direct Ipoh city entry.
+**Default route:** Tuas -> Johor Bahru -> Kota Tinggi -> Route 3 east coast -> Mersing -> Kuantan  
+**Dry-weather scenic finish:** the entire Route 3 coastal section from Mersing toward Kuantan is the scenic quarter. Use any beach or small-town stop that looks good along the way.  
+**Rain mode:** same route, fewer stops. Route 3 still works in rain even if the coastal views are less rewarding.
 
 **Breakfast ideas**
-- If the group leaves very early, eat near the Singapore start point and cross first.
-- If breakfast is after the border, use a clean early stop around `Skudai / Kulai / Yong Peng`.
-- Keep it simple: kopi + toast, noodles, or roti so the first long stint is comfortable.
+- Light breakfast before departure or eat right after the border.
+- Easy stop around `Skudai / Kulai` if you want to eat after clearing Tuas.
+- Keep it light so the first easy day stays relaxed.
 
 **Lunch ideas with 10-20 km flexibility**
-- `Tapah / Kampar` area for a proper town lunch instead of R&R food.
-- `Sungkai / Bidor` if you want a quicker stop without going too far off line.
-- Aim for rice, noodles, or soup rather than a very heavy lunch on the first long day.
+- `Mersing` for a seafood or noodle stop before the longer coastal stretch.
+- `Rompin` area if you prefer to push farther up the coast first.
+- This is a short day so there is room to linger.
 
 **Dinner near destination**
-- `Ipoh Old Town` style dinner: white coffee, bean sprout chicken, hor fun, salt-baked chicken.
-- If you want an easier parking situation, eat near a newer commercial block instead of the tight heritage core.
+- `Kuantan town seafood` for fresh east coast fish and rice.
+- `Hawker centre or cafe` near the hotel if you want a simpler wind-down.
 
 **Ride notes**
-- This is the longest settling-in day; keep the scenic portion short.
-- Ipoh works best if you arrive before dark and keep the evening easy.
+- This is the easiest day of the loop. Use it to settle in and not arrive tired before Day 2.
+- Kuantan is a functional stopover town rather than a major destination — set expectations for the evening accordingly.
 
-### Day 2 - Ipoh to HatYai
+### Day 2 - Kuantan to Ipoh
 
-**Default route (highway-first):** Ipoh -> North-South Expressway -> Bukit Kayu Hitam / Sadao border -> HatYai  
-**Dry-weather scenic finish:** after the border, use the quieter local approach into greater HatYai rather than the most direct main-road run all the way in. This is more of a **local scenic finish** than a true twisty section.  
-**Rain mode:** stay on the most direct main road from the border into HatYai.
+**Default route (highway-first):** Kuantan -> inland via `Temerloh / Bentong` corridor -> `Raub` -> continue toward Cameron Highlands approach -> descend toward Ipoh  
+**Dry-weather scenic finish:** the `Raub -> Cameron Highlands -> Ipoh` section is the natural scenic spine of this day. This is the most rewarding riding of the loop — trunk roads through the highlands give the 25% feel without forcing a detour.  
+**Rain mode:** keep the same corridor but treat the highland section as a transit leg; no extra viewpoint stops, no late arrival gambles. If conditions are very bad, use the faster `Temerloh -> KL fringe -> expressway northbound -> Ipoh` alternative to avoid the highland section entirely.
 
 **Breakfast near hotel**
-- `Ipoh Old Town` kopi + eggs + toast.
-- `Dim sum / noodles` around the morning commercial areas if the group wants a heavier breakfast.
-- If departure is very early, take only coffee and a light bite, then have a second breakfast stop later.
+- `Kuantan kopitiam` near the hotel or town centre.
+- `Hotel breakfast` if the group wants a clean early start before the cross-country leg.
+- Leave early — Day 2 is the longest and most demanding day.
 
 **Lunch ideas with 10-20 km flexibility**
-- `Alor Setar / Jitra / Changlun` belt before the border is the safest lunch zone.
-- If the border queue looks bad, eat before crossing rather than gambling on a late HatYai lunch.
-- Good mix here: nasi campur, Thai-style seafood, or an air-conditioned cafe stop.
+- `Temerloh` for a good practical town lunch before the roads get slower.
+- `Raub` if you prefer to push deeper into the interior first.
+- Keep lunch efficient so the Cameron Highlands section still happens with good daylight.
 
 **Dinner near destination**
-- `HatYai central market / night-market style dinner` if the group wants local energy.
-- `Cafe / mall-adjacent dinner` if everyone wants easy parking and a lighter evening.
-- Good first-night Thailand mix: grilled meat, tom yum, basil rice, milk tea, roti.
+- `Ipoh Old Town` classics: white coffee, bean sprout chicken, hor fun, salt-baked chicken.
+- `New town / modern cafe zone` if easier parking matters more.
 
 **Ride notes**
-- This is a border-and-distance day, so keep expectations realistic.
-- HatYai is more about food and a comfortable Thailand stop than technical riding.
+- Do not leave Kuantan late. The interior roads are slower than the map suggests.
+- If the Cameron Highlands section looks wet or the group is behind schedule, take the expressway bypass and skip the highland climb — it is not worth the stress on a full-day cross-country leg.
 
-### Day 3 - HatYai to Penang
+### Day 3 - Ipoh to Malacca
 
-**Default route (highway-first):** HatYai -> Sadao border -> North-South Expressway southbound -> Penang  
-**Dry-weather scenic finish:** instead of entering Penang in the most direct manner, use a `Balik Pulau / western island-side` finish if the group still has energy. That gives the day its scenic quarter.  
-**Rain mode:** skip the island loop and go straight to the hotel zone in George Town or mainland Butterworth.
+**Default route (highway-first):** Ipoh -> North-South Expressway southbound -> Malacca  
+**Dry-weather scenic finish:** once near Malacca, leave the expressway and use the old-town or coastal-side approach for the final entry. This is not a twisty segment, but it gives the day a more interesting finish than a straight hotel run.  
+**Rain mode:** direct hotel entry and skip the heritage-core riding until the evening if weather clears.
 
 **Breakfast near hotel**
-- Morning food around the `Lee Garden / Kim Yong / central HatYai` area.
-- Choose light Thai breakfast options so border processing stays easy.
-- If the hotel breakfast is efficient, use that and get on the road early.
+- `Ipoh Old Town` breakfast if staying central.
+- `Dim sum / noodle breakfast` if the group wants a bigger morning meal.
+- `Simple cafe breakfast` if the goal is to leave earlier.
 
 **Lunch ideas with 10-20 km flexibility**
-- `Sungai Petani` if you want a shorter lunch day.
-- `Bukit Mertajam / Juru` if you want to ride closer to Penang first, then eat well.
-- Auto-city or large commercial clusters are useful here if parking convenience matters.
+- `Tanjung Malim` for a practical mid-route stop.
+- `Seremban` if you want the strongest lunch town on this sector.
+- `Nilai / south KL fringe` if you want to push farther before eating.
 
 **Dinner near destination**
-- `George Town hawker dinner` if the group wants the full Penang food hit.
-- `Cafe / bistro dinner` if you are arriving tired and want a sit-down meal.
-- Safe classic choices: char koay teow, assam laksa, hokkien mee, satay, grilled seafood.
+- `Jonker / heritage-adjacent food streets` if the hotel is close enough to walk after parking.
+- `Riverside cafe / Peranakan dinner` if the group wants a more relaxed evening.
+- `Mall / modern commercial area` if parking convenience matters most.
 
 **Ride notes**
-- Penang is a better food stop than a rest stop, so resist over-planning too many side missions.
-- If the group arrives early, use the evening for food and rest rather than a long island loop.
+- This can feel longer than it looks because southbound traffic builds later in the day.
+- Aim to arrive before the evening tourist peak in Malacca.
 
-### Day 4 - Penang to Fraser Hill or Genting
+### Day 4 - Malacca to Singapore
 
-**Default route (highway-first):** Penang -> North-South Expressway southbound -> choose either Fraser Hill or Genting for the final climb.
-
-**If choosing Fraser Hill**
-- **Dry-weather scenic finish:** exit toward `Kuala Kubu Bharu`, then do the final climb up to Fraser Hill.
-- This is the best true twisty finish on the Hatyai loop.
-- **Rain mode:** still possible, but only if visibility is good and everyone is fresh. Otherwise stay in the valley or switch the overnight to Genting.
-
-**If choosing Genting**
-- **Dry-weather scenic finish:** expressway to the base area, then the final hill climb from `Gohtong Jaya`.
-- Less romantic than Fraser, but easier if the group wants a straightforward hotel night.
-- **Rain mode:** Genting is the easier highland option because the approach is simpler and more developed.
+**Default route:** Malacca -> North-South Expressway southbound -> Johor -> Singapore  
+**Optional dry-weather scenic finish:** if the group wants one last casual non-expressway section, use a short Johor back-road finish only if border timing looks comfortable.  
+**Rain mode:** direct run home.
 
 **Breakfast near hotel**
-- `George Town kopitiam breakfast` near the hotel area.
-- `Bakery + coffee` if the group wants a quick rollout.
-- `Hotel breakfast` is valid here because this day still has decent mileage.
+- `Jonker / old-town breakfast` if staying close to the heritage area.
+- `Hotel breakfast` if you want a zero-stress departure.
+- `Cafe / bakery start` if the group prefers lighter food before the final ride.
 
 **Lunch ideas with 10-20 km flexibility**
-- `Slim River / Tanjung Malim` if you want a practical stop.
-- `Ipoh southbound` if the group prefers a better meal and a longer first stint.
-- `Rawang / northern KL fringe` if the goal is to get the climb done later in the afternoon.
-
-**Dinner near destination**
-- `Fraser Hill`: steamboat, simple western cafe, old-school hotel dining.
-- `Genting`: easier mix of food court, mall dining, or comfort-food chains.
+- `Ayer Keroh` for a quick early lunch.
+- `Johor Bahru outskirts` if you prefer to finish most of the ride before eating.
 
 **Ride notes**
-- If you want the best 1/4 twisty ratio of the entire Hatyai trip, this is the day to do it.
-- Fraser Hill is the scenic choice; Genting is the easier-pace choice.
-
-### Day 5 - Fraser Hill / Genting to Singapore
-
-**Default route:** descend early -> join the major southbound expressway -> Johor -> Singapore  
-**Optional dry-weather scenic finish:** if the group still wants one last softer non-expressway section, use a short old-road segment in Johor near the end. Keep it optional, not mandatory.  
-**Rain mode:** full direct expressway run home.
-
-**Breakfast near hotel**
-- `Fraser Hill`: hotel breakfast or simple cafe breakfast before descent.
-- `Genting`: hotel / coffee chain / bakery start before traffic builds.
-
-**Lunch ideas with 10-20 km flexibility**
-- `Seremban` for a better town lunch.
-- `Ayer Keroh / Melaka belt` if you prefer pushing the first half longer.
-- `Johor Bahru outskirts` only if the group wants a very short final leg into Singapore.
-
-**Ride notes**
-- Make this the easiest day of the trip.
-- Fatigue is usually higher than expected on the last leg, even if the weather is good.
+- This should be the cleanest and simplest day of the trip.
+- Save any long lunch for after border conditions look predictable.
 
 ---
 
-## Option B - Singapore -> Betong -> Penang -> Fraser Hill / Genting -> Singapore
+## Option B - Singapore -> Betong -> Fraser Hill / Genting -> Singapore
 
 ### Why choose this loop
 
 - Better real riding than the HatYai option.
 - Betong gives you more satisfying bends and a more distinctive Thailand stop.
 - Stronger scenic payoff, especially if you also choose Fraser Hill.
-- Harder pace than HatYai, especially around the border and mountain approach.
+- Harder pace than HatYai on the Betong approach, but a clean 4-day loop overall.
+- Day 3 return through the Gerik corridor into the highland climb is the most memorable back-to-back riding of the three options.
 
-### Recommendation on trip length
-
-The original Betong sketch compressed the route more aggressively. The more rider-friendly version is a **5 riding day plan**:
+### Route summary
 
 | Day | Route | Riding character | Best overnight goal |
 |---|---|---|---|
 | **Day 1 - Wed, 2 Dec** | Singapore -> Ipoh | Long highway day | Ipoh |
 | **Day 2 - Thu, 3 Dec** | Ipoh -> Betong | Highway first, then meaningful scenic/trunk-road section | Betong |
-| **Day 3 - Fri, 4 Dec** | Betong -> Penang | Mixed mountain exit and highway return | Penang |
-| **Day 4 - Sat, 5 Dec** | Penang -> Fraser Hill or Genting | Best final scenic day | Fraser Hill or Genting |
-| **Day 5 - Sun, 6 Dec** | Fraser Hill / Genting -> Singapore | Direct return | Singapore |
-
-If you must compress, the toughest compression is to combine `Betong -> Penang` into a longer day without extra sightseeing.
+| **Day 3 - Fri, 4 Dec** | Betong -> Fraser Hill or Genting | Gerik corridor return, then highland climb finish | Fraser Hill or Genting |
+| **Day 4 - Sat, 5 Dec** | Fraser Hill / Genting -> Singapore | Direct return | Singapore |
 
 ### Estimated distance and riding hours
 
@@ -221,13 +181,12 @@ If you must compress, the toughest compression is to combine `Betong -> Penang` 
 |---|---|---:|---:|---:|
 | **Day 1** | Singapore -> Ipoh | 560-620 km | 6.5-7.5 hrs | 9-11 hrs |
 | **Day 2** | Ipoh -> Betong | 290-360 km | 4.5-6 hrs | 7-9 hrs |
-| **Day 3** | Betong -> Penang | 230-320 km | 4-5.5 hrs | 6.5-8.5 hrs |
-| **Day 4** | Penang -> Fraser Hill | 420-470 km | 5.5-6.5 hrs | 8-9.5 hrs |
-| **Day 4 alt** | Penang -> Genting | 360-420 km | 4.5-5.5 hrs | 7-8.5 hrs |
-| **Day 5** | Fraser Hill -> Singapore | 430-500 km | 6-7 hrs | 8.5-10 hrs |
-| **Day 5 alt** | Genting -> Singapore | 350-390 km | 4.5-5.5 hrs | 7-8.5 hrs |
+| **Day 3** | Betong -> Fraser Hill | 380-450 km | 5.5-7 hrs | 8.5-10.5 hrs |
+| **Day 3 alt** | Betong -> Genting | 340-410 km | 5-6.5 hrs | 8-10 hrs |
+| **Day 4** | Fraser Hill -> Singapore | 430-500 km | 6-7 hrs | 8.5-10 hrs |
+| **Day 4 alt** | Genting -> Singapore | 350-390 km | 4.5-5.5 hrs | 7-8.5 hrs |
 
-**Planning note:** The Betong route is lower in total distance than HatYai on Days 2-3, but it is usually more tiring because the inland section demands more concentration and gives fewer mindless cruising stretches.
+**Planning note:** Day 3 is the hardest day on this loop — Gerik corridor plus the highland climb is a full day of real riding. Leave Betong early and treat it as the centrepiece of the trip.
 
 ### Day 1 - Singapore to Ipoh
 
@@ -257,155 +216,147 @@ Use the same Day 1 plan as the HatYai option.
 - Do not leave Ipoh too late.
 - This is the route to pick if the group wants a more memorable riding day rather than just a destination tick.
 
-### Day 3 - Betong to Penang
+### Day 3 - Betong to Fraser Hill or Genting
 
-**Default route (highway-first):** Betong -> border exit -> inland run back to the faster Malaysian corridor -> southbound highway toward Penang  
-**Dry-weather scenic finish:** once back near Penang, add the `Balik Pulau / western island-side` approach if everyone still has enough energy.  
-**Rain mode:** no Penang scenic loop; go straight to the hotel.
+**Default route:** Betong -> border exit -> `Gerik corridor` southbound -> Kuala Kangsar -> expressway or Route 1 southbound -> `Kuala Kubu Bharu` for Fraser Hill, or continue toward `Gohtong Jaya` for Genting  
+**Dry-weather approach:** the Gerik corridor is the natural scenic spine of this day. Ride it at a steady pace, then use the final hill climb as the finishing reward.  
+**Rain mode:** keep the Gerik corridor at a steady transit pace, skip any optional stops, and choose Genting over Fraser Hill if visibility is poor by the time you reach the highland approach.
 
 **Breakfast near hotel**
 - `Betong market breakfast` for porridge, noodles, coffee, or roti.
 - `Hotel breakfast` if you want an early clean start before border formalities.
+- Leave early — this is the longest day on the loop.
 
 **Lunch ideas with 10-20 km flexibility**
-- `Baling / Kulim side` if you want lunch before fully rejoining faster roads.
-- `Bukit Mertajam / Juru` if you want to save the best food for nearer Penang.
+- `Gerik` for a practical fuel-and-food stop in the heart of the corridor.
+- `Kuala Kangsar` if you prefer to push closer to the southern section before eating.
+- Keep lunch efficient so the highland climb still happens with daylight to spare.
 
 **Dinner near destination**
-- Same Penang dinner logic as the HatYai loop: hawker if the group is still enthusiastic, cafe or easier sit-down option if tired.
+- `Fraser Hill`: steamboat, simple western cafe, old-school hotel dining.
+- `Genting`: food court, mall dining, or comfort-food chains.
 
 **Ride notes**
-- The day already includes enough real riding; do not force a very large island loop unless the weather is excellent.
+- This is the hardest day on the loop. Treat it as the centrepiece of the trip.
+- Do not leave Betong late; border formalities add time before the real riding begins.
+- Choose Genting if anyone is fatigued by the time you reach the highland base — the approach is more forgiving.
 
-### Day 4 - Penang to Fraser Hill or Genting
-
-Use the same Day 4 plan as the HatYai option.
-
-### Day 5 - Fraser Hill / Genting to Singapore
+### Day 4 - Fraser Hill / Genting to Singapore
 
 Use the same Day 5 plan as the HatYai option.
 
 ---
 
-## Option C - Singapore -> Kuala Lumpur -> Penang -> Ipoh -> Malacca -> Singapore
+## Option C - Singapore -> Mersing -> Genting -> Malacca -> Singapore
 
 ### Why choose this loop
 
-- Best if the group wants a simpler Malaysia-only ride with no Thailand border leg.
-- Easiest route for mixed priorities: food, city stay, and moderate scenic riding.
-- Better hotel and support options every night.
-- Less adventurous than Betong, but smoother and easier to recover from if weather turns bad.
+- Best if the group wants the east coast corridor rather than the busy North-South Expressway.
+- Good mix of coastal start, inland Pahang roads, highland climb, and heritage finish.
+- No Thailand border leg, so logistics are the simplest of the three options.
+- Lowest daily distances overall, with a built-in rest day to absorb fatigue or bad weather.
+- More variety per segment than a straight expressway loop, even without crossing into Thailand.
 
 ### Route summary
 
 | Day | Route | Riding character | Best overnight goal |
 |---|---|---|---|
-| **Day 1 - Wed, 2 Dec** | Singapore -> Kuala Lumpur | Fast transit day with optional twisty finish on the city outskirts | Kuala Lumpur |
-| **Day 2 - Thu, 3 Dec** | Kuala Lumpur -> Penang | Long expressway day with optional scenic island-side finish | Penang |
-| **Day 3 - Fri, 4 Dec** | Penang -> Ipoh | Shorter distance day, good food focus, optional old-road scenic approach | Ipoh |
-| **Day 4 - Sat, 5 Dec** | Ipoh -> Malacca | Long southbound transit with optional old-town finish | Malacca |
-| **Day 5 - Sun, 6 Dec** | Malacca -> Singapore | Easiest return day | Singapore |
+| **Day 1 - Wed, 2 Dec** | Singapore -> Mersing | Easy east coast warm-up day on quieter roads | Mersing |
+| **Day 2 - Thu, 3 Dec** | Mersing -> Genting | Inland Pahang transition day, highland climb finish | Genting |
+| **Day 3 - Fri, 4 Dec** | Rest day at Genting | No mandatory riding; optional short morning loop | Genting |
+| **Day 4 - Sat, 5 Dec** | Genting -> Malacca | Descend and head south, easy heritage finish | Malacca |
+| **Day 5 - Sun, 6 Dec** | Malacca -> Singapore | Short clean return | Singapore |
 
 ### Estimated distance and riding hours
 
-| Day | Sector | Approx km | Saddle time only | Realistic day time with fuel + meals + border |
+| Day | Sector | Approx km | Saddle time only | Realistic day time with fuel + meals |
 |---|---|---:|---:|---:|
-| **Day 1** | Singapore -> Kuala Lumpur | 330-380 km | 4.5-5.5 hrs | 6.5-8 hrs |
-| **Day 2** | Kuala Lumpur -> Penang | 360-420 km | 4.5-5.5 hrs | 7-8.5 hrs |
-| **Day 3** | Penang -> Ipoh | 160-210 km | 2.5-3.5 hrs | 4.5-6 hrs |
-| **Day 4** | Ipoh -> Malacca | 380-450 km | 5-6 hrs | 7.5-9 hrs |
+| **Day 1** | Singapore -> Mersing | 185-215 km | 2.5-3.5 hrs | 4-6 hrs |
+| **Day 2** | Mersing -> Genting | 280-360 km | 4-5.5 hrs | 6.5-8.5 hrs |
+| **Day 3** | Rest day / optional loop | 0-80 km | — | Flexible |
+| **Day 4** | Genting -> Malacca | 180-230 km | 2.5-3.5 hrs | 4.5-6 hrs |
 | **Day 5** | Malacca -> Singapore | 220-270 km | 3-4 hrs | 5-6.5 hrs |
 
-**Planning note:** This option has the least border risk after the initial Singapore-to-Malaysia crossing, so it is the easiest plan to recover if you leave late, hit heavy rain, or want a longer meal stop.
+**Planning note:** This option has the lowest total mileage and the simplest border situation after the initial Singapore-to-Malaysia crossing. The rest day on Day 3 can absorb a slow Day 2, bad weather, or just give the group a proper highland afternoon before the push south.
 
-### Day 1 - Singapore to Kuala Lumpur
+### Day 1 - Singapore to Mersing
 
-**Default route (highway-first):** Tuas -> Johor Bahru -> North-South Expressway northbound -> Kuala Lumpur  
-**Dry-weather scenic finish:** stay on expressway for the main transit, then use a final climb or urban-edge scenic approach via the hill fringes near `Gombak / Ulu Yam side` only if the group arrives early enough. Keep this short so city arrival stays simple.  
-**Rain mode:** use the most direct expressway approach into the hotel zone.
+**Default route:** Tuas -> Johor Bahru -> Kota Tinggi -> Route 3 east coast -> Mersing  
+**Dry-weather scenic finish:** once past Kota Tinggi, the entire Route 3 run toward Mersing is the scenic section. Keep the pace relaxed and use any coastal or small-town stop that looks good.  
+**Rain mode:** same route, fewer stops. Route 3 works in rain even if the views are less rewarding.
 
 **Breakfast ideas**
-- If leaving very early, grab a light Singapore breakfast and clear the border first.
-- If eating after the border, use an easy morning stop around `Skudai / Kulai`.
-- Keep breakfast light so the first riding block stays efficient.
+- Light breakfast before departure or eat right after the border.
+- Easy stop around `Skudai / Kulai` if you want to eat after clearing the Tuas crossing.
+- Keep it simple so the first short day stays relaxed.
 
 **Lunch ideas with 10-20 km flexibility**
-- `Seremban` is the strongest balanced lunch stop for this day.
-- `Ayer Keroh / Melaka belt` works if the group wants an earlier meal.
-- `Nilai / south KL fringe` is useful if you prefer pushing farther before lunch.
+- `Kota Tinggi` town area for a proper noodle or rice lunch before the coastal section.
+- `Mersing outskirts` if you prefer to ride most of the way before eating.
+- This is a short day so there is room to linger at lunch.
 
 **Dinner near destination**
-- `KL city-fringe dining` for easier parking and hotel access.
-- `Bukit Bintang / central food streets` if the group is willing to deal with busier urban traffic.
-- Good mix here: hawker-style Chinese / Malay food, mall dining, or a sit-down cafe recovery dinner.
+- `Mersing town seafood` if the group wants fresh fish and local style.
+- `Simple cafe or hawker` if you want an easy wind-down after the first ride day.
 
 **Ride notes**
-- This is the easiest first day of all three options.
-- Stay disciplined on city entry timing; KL is much nicer if you check in before the evening peak.
+- This is the easiest and shortest riding day of the trip. Use it to settle in.
+- Mersing is a quiet small town; set expectations accordingly for evening options.
 
-### Day 2 - Kuala Lumpur to Penang
+### Day 2 - Mersing to Genting
 
-**Default route (highway-first):** Kuala Lumpur -> North-South Expressway northbound -> Penang  
-**Dry-weather scenic finish:** once near Penang, cross in and use a `Balik Pulau / western island-side` approach or a gentler coastal-feel finish if the group still has energy.  
-**Rain mode:** direct hotel entry in George Town or mainland-side accommodation.
+**Default route (highway-first):** Mersing -> inland roads toward `Segamat / Labis / Gemas` corridor -> continue toward `Bentong / Karak` -> Genting hill climb via Gohtong Jaya  
+**Dry-weather scenic finish:** the Karak / Bentong approach before the climb gives the best natural scenic finish. The Genting hill climb from Gohtong Jaya is the day's proper final twisty section.  
+**Rain mode:** keep the inland transit pace steady and skip any optional loops before the climb.
 
 **Breakfast near hotel**
-- `Hotel breakfast` is ideal if staying in central KL.
-- `Kopitiam / mamak / cafe row` near the hotel if you want a quicker start.
-- Avoid spending too long in the city in the morning.
+- `Mersing kopitiam` near the hotel or seafront area.
+- `Simple noodles or toast` before the day's longer inland leg.
 
 **Lunch ideas with 10-20 km flexibility**
-- `Ipoh southbound / central Perak` if the group wants the best meal quality on this leg.
-- `Taiping` if you want a calmer town lunch closer to Penang.
-- `Bukit Mertajam / Juru` if you prefer to ride most of the distance before eating.
+- `Segamat` for a practical town lunch with easy parking.
+- `Bentong` if you prefer to push farther and eat closer to the Genting approach.
+- `Temerloh` works if the route runs more centrally through Pahang.
 
 **Dinner near destination**
-- `George Town hawker dinner` for the classic Penang stop.
-- `Cafe / bistro / modern kopitiam` if the group wants air-conditioning and easier seating.
+- `Genting`: food court, mall dining, or comfort-food chains depending on where the hotel is.
+- Keep dinner easy since the hill arrival tends to make everyone more tired than the distance suggests.
 
 **Ride notes**
-- This is an efficient transit day, so keep the scenic finish optional.
-- If the group arrives early, use the evening for food rather than extra riding.
+- This is the longest riding day of the loop. Leave Mersing early.
+- The inland Pahang roads are quieter but slower than expressway; pace the schedule accordingly.
+- Aim to complete the Genting hill climb before late afternoon.
 
-### Day 3 - Penang to Ipoh
+### Day 3 - Rest day at Genting
 
-**Default route (highway-first):** Penang -> bridge / mainland exit -> North-South Expressway southbound -> Ipoh  
-**Dry-weather scenic finish:** use an older `Kuala Kangsar / Route 1` style entry into Ipoh for the final segment instead of staying on the expressway all the way in.  
-**Rain mode:** direct expressway entry to the hotel.
+**No mandatory riding today.**
 
-**Breakfast near hotel**
-- `George Town kopitiam breakfast` near the hotel.
-- `Bakery + coffee` if the group wants a shorter morning.
-- `Hotel breakfast` is fine since this is a lighter mileage day.
+**Optional morning loop**
+- A short morning run toward `Fraser Hill` if the weather is clear and the group wants one proper twisty session.
+- Alternatively, drop down to `Bentong` or `Raub` for a simple breakfast ride before returning.
+- Keep any riding before noon so the afternoon stays genuinely free.
 
-**Lunch ideas with 10-20 km flexibility**
-- Because the distance is shorter, you can turn this into a more deliberate food day.
-- `Taiping` if you want a brunch-style stop before reaching Ipoh.
-- `Kuala Kangsar` if you prefer to stay closer to the scenic approach section.
+**Food near Genting**
+- `Genting food court or mall dining` for easy access.
+- `Bentong or Gohtong Jaya` if the group wants to drop down for a better meal.
 
-**Dinner near destination**
-- `Ipoh Old Town` classics if the group still wants a food-focused evening.
-- `New town / modern cafe zone` if easier parking matters more.
+**Rest day notes**
+- Use this day for laundry, recovery, and a lighter schedule before the final two days.
+- If Day 2 was wet or tiring, skip the morning loop entirely.
 
-**Ride notes**
-- Good day to slow down, do laundry, or recover if the previous days were wet.
-- This is the most flexible day for extra coffee or sightseeing breaks.
+### Day 4 - Genting to Malacca
 
-### Day 4 - Ipoh to Malacca
-
-**Default route (highway-first):** Ipoh -> North-South Expressway southbound -> Malacca  
-**Dry-weather scenic finish:** once near Malacca, leave the expressway and use the old-town / coastal-side approach for the final part of the day. This is not a true twisty segment, but it gives the day a more interesting finish than a straight hotel run.  
+**Default route (highway-first):** Genting descent -> Gohtong Jaya -> join the North-South Expressway southbound via `Rawang / Seremban` -> Malacca  
+**Dry-weather scenic finish:** once near Malacca, leave the expressway and use the old-town or coastal-side approach for the final entry. This is not a twisty segment, but it gives the day a more interesting finish than a straight hotel run.  
 **Rain mode:** direct hotel entry and skip the heritage-core riding until the evening if weather clears.
 
 **Breakfast near hotel**
-- `Ipoh Old Town` breakfast if the hotel is nearby.
-- `Dim sum / noodle breakfast` if the group wants a bigger morning meal.
-- `Simple cafe breakfast` if the goal is to leave earlier.
+- `Genting hotel or coffee chain` before descending.
+- `Gohtong Jaya` cafe if you want to eat after the first descent section.
 
 **Lunch ideas with 10-20 km flexibility**
-- `Tanjung Malim` for a practical mid-route stop.
-- `Seremban` if you want the strongest lunch town on this sector.
-- `Nilai / south KL fringe` if you want to push farther before eating.
+- `Seremban` is the strongest lunch stop on this sector.
+- `Ayer Keroh / Melaka belt` if you prefer to push farther before eating.
 
 **Dinner near destination**
 - `Jonker / heritage-adjacent food streets` if the hotel is close enough to walk after parking.
@@ -413,27 +364,26 @@ Use the same Day 5 plan as the HatYai option.
 - `Mall / modern commercial area` if parking convenience matters most.
 
 **Ride notes**
-- This can feel longer than it looks because southbound traffic builds later in the day.
+- This is a comfortable medium-length day after the rest day.
 - Aim to arrive before the evening tourist peak in Malacca.
 
 ### Day 5 - Malacca to Singapore
 
 **Default route:** Malacca -> North-South Expressway southbound -> Johor -> Singapore  
-**Optional dry-weather scenic finish:** if the group wants one last casual non-expressway section, use a short Johor back-road finish only if border timing looks comfortable.  
+**Optional dry-weather scenic finish:** if the group wants one last casual non-expressway section, a short Johor back-road finish is possible if border timing looks comfortable.  
 **Rain mode:** direct run home.
 
 **Breakfast near hotel**
 - `Jonker / old-town breakfast` if staying close to the heritage area.
 - `Hotel breakfast` if you want a zero-stress departure.
-- `Cafe / bakery start` if the group prefers lighter food before the final ride home.
+- `Cafe / bakery start` if the group prefers lighter food before the final ride.
 
 **Lunch ideas with 10-20 km flexibility**
-- `Ayer Keroh` if you want a quick early lunch.
-- `Batu Pahat direction off-line` only if the group truly wants a detour; otherwise keep the route efficient.
+- `Ayer Keroh` for a quick early lunch.
 - `Johor Bahru outskirts` if you prefer to finish most of the ride before eating.
 
 **Ride notes**
-- This should be your cleanest and simplest return day.
+- This should be the cleanest and simplest return day.
 - Save any long lunch for after border conditions look predictable.
 
 
@@ -451,15 +401,14 @@ This section is meant to keep the day flowing, not to squeeze every kilometer fr
 4. **Never enter the scenic final 1/4 of the route needing fuel.**
 5. **If rain starts, bring the next fuel stop forward rather than stretching range.**
 
-### Suggested fuel rhythm - Hatyai loop
+### Suggested fuel rhythm - Kuantan / Ipoh / Malacca loop
 
 | Day | Suggested fuel rhythm |
 |---|---|
-| **Day 1: Singapore -> Ipoh** | Full tank before departure -> top-up after clearing the border / early Johor if needed -> second fuel around central expressway zone -> optional final top-up before entering Ipoh |
-| **Day 2: Ipoh -> HatYai** | Full tank in Ipoh -> one northbound expressway stop -> top-up near `Jitra / Changlun` before the border -> optional town fuel in HatYai for the next morning |
-| **Day 3: HatYai -> Penang** | Start full -> fuel before leaving greater HatYai or near the border -> one Malaysian expressway stop -> arrive Penang with enough reserve to skip city hunting |
-| **Day 4: Penang -> Fraser Hill / Genting** | Full tank leaving Penang -> one mid-route stop around `Perak / Selangor transition` -> top-up before hill climb |
-| **Day 5: Highlands -> Singapore** | Start full -> one stop around `Seremban / Melaka zone` -> optional second stop in Johor depending on pace and traffic |
+| **Day 1: Singapore -> Kuantan** | Full tank before departure -> top-up after clearing the border / early Johor if needed -> the route is short enough that one stop around `Mersing` area is usually sufficient; arrive Kuantan with good reserve |
+| **Day 2: Kuantan -> Ipoh** | Full tank in Kuantan -> one stop around `Temerloh / Raub` corridor before the highland section -> do not enter the Cameron Highlands approach needing fuel |
+| **Day 3: Ipoh -> Malacca** | Full tank in Ipoh -> one stop around `Tanjung Malim / Seremban zone` -> arrive Malacca with reserve |
+| **Day 4: Malacca -> Singapore** | Start full -> optional Johor top-up depending on range, traffic, and whether you want to finish with reserve |
 
 ### Suggested fuel rhythm - Betong loop
 
@@ -467,18 +416,17 @@ This section is meant to keep the day flowing, not to squeeze every kilometer fr
 |---|---|
 | **Day 1: Singapore -> Ipoh** | Same as Hatyai Day 1 |
 | **Day 2: Ipoh -> Betong** | Full tank in Ipoh -> top-up before leaving the faster northbound corridor -> top-up again around `Gerik` before the inland/scenic section if range is modest -> reach Betong with reserve |
-| **Day 3: Betong -> Penang** | Start full -> fuel before or shortly after the border depending on queue and price logic -> one stop around `Kulim / mainland side` only if needed |
-| **Day 4: Penang -> Fraser Hill / Genting** | Same as Hatyai Day 4 |
+| **Day 3: Betong -> Fraser Hill / Genting** | Start full -> fuel before or shortly after the border -> one stop around `Kuala Kangsar / Slim River` zone -> top-up before the hill climb |
 | **Day 5: Highlands -> Singapore** | Same as Hatyai Day 5 |
 
-### Suggested fuel rhythm - Kuala Lumpur / Penang / Ipoh / Malacca loop
+### Suggested fuel rhythm - Mersing / Genting / Malacca loop
 
 | Day | Suggested fuel rhythm |
 |---|---|
-| **Day 1: Singapore -> Kuala Lumpur** | Full tank before departure -> top-up after clearing the border / early Johor if needed -> optional second stop around `Seremban / Nilai` before entering KL |
-| **Day 2: Kuala Lumpur -> Penang** | Full tank leaving KL -> one mid-route stop around `Perak corridor` -> optional mainland top-up before entering Penang |
-| **Day 3: Penang -> Ipoh** | Start full -> usually no more than one mainland-side top-up needed, and some groups may skip fuel entirely if range allows |
-| **Day 4: Ipoh -> Malacca** | Full tank in Ipoh -> one stop around `Tanjung Malim / Seremban zone` -> optional top-up before entering Malacca if the next morning start is early |
+| **Day 1: Singapore -> Mersing** | Full tank before departure -> top-up after clearing the border / early Johor if needed -> the route is short enough that one stop is usually sufficient; arrive Mersing with good reserve |
+| **Day 2: Mersing -> Genting** | Full tank in Mersing -> one stop around the `Segamat / Gemas` corridor -> top-up before or around `Bentong` before the hill climb |
+| **Day 3: Rest day at Genting** | Top up before any optional morning loop; Genting and Gohtong Jaya area have easy fuel access |
+| **Day 4: Genting -> Malacca** | Start full -> one stop around `Seremban / Nilai` -> arrive Malacca with reserve |
 | **Day 5: Malacca -> Singapore** | Start full -> optional Johor top-up depending on range, traffic, and whether you want to finish with reserve |
 
 ### Border planning rules
@@ -493,12 +441,12 @@ This section is meant to keep the day flowing, not to squeeze every kilometer fr
 
 | Route | Day | Border advice |
 |---|---|---|
-| **HatYai loop** | **Day 2: Malaysia -> Thailand** | Fuel and lunch should be completed before the border if queues or weather look uncertain. Do not rely on a late HatYai lunch. |
-| **HatYai loop** | **Day 3: Thailand -> Malaysia** | Leave HatYai early, keep breakfast simple, and avoid a scenic detour until fully back on the Malaysian side. |
+| **Kuantan / Ipoh / Malacca loop** | **Day 1: Singapore -> Malaysia** | Clear the Tuas crossing early so the Route 3 coastal section can be ridden at a relaxed pace. No Thailand leg on this route, so this is the easiest option to recover if the morning runs late. |
+| **Kuantan / Ipoh / Malacca loop** | **Day 4: Malaysia -> Singapore** | Keep lunch flexible and avoid a large Johor detour if the Singapore-bound queue is building. |
 | **Betong loop** | **Day 2: Malaysia -> Thailand** | Reach the inland border with daylight buffer. Do not let a late Ipoh breakfast become a late Betong arrival. |
-| **Betong loop** | **Day 3: Thailand -> Malaysia** | Exit early if the weather is bad because the slower inland return magnifies any border delay. |
-| **KL / Penang / Ipoh / Malacca loop** | **Day 1: Singapore -> Malaysia** | Clear the Singapore-Malaysia crossing early, then settle into the highway rhythm. Because there is no Thailand leg afterward, this is the easiest route to recover if the morning runs late. |
-| **KL / Penang / Ipoh / Malacca loop** | **Day 5: Malaysia -> Singapore** | Keep lunch flexible and avoid a big final detour if the Singapore-bound queue starts building. |
+| **Betong loop** | **Day 3: Thailand -> Malaysia** | Exit early — Day 3 is the longest day on the loop and a slow border adds up quickly when the Gerik corridor and highland climb are still ahead. |
+| **Mersing / Genting / Malacca loop** | **Day 1: Singapore -> Malaysia** | Clear the Tuas crossing early so the Route 3 east coast section can be ridden at a comfortable pace. There is no Thailand leg, so this is the easiest route to recover if the morning runs late. |
+| **Mersing / Genting / Malacca loop** | **Day 5: Malaysia -> Singapore** | Keep lunch flexible and avoid a large final Johor detour if the Singapore-bound queue is building. |
 
 ### Border-stop checklist
 
@@ -524,7 +472,7 @@ If rain becomes the deciding factor, use these rules instead of debating each le
 ### Rain substitutions by segment
 
 - **Into Ipoh:** stay on expressway all the way in.
-- **Into HatYai:** use the most direct post-border road, no local scenic entry.
+- **Into Kuantan:** same Route 3 corridor, fewer stops, steady pace.
 - **Into Betong:** keep the main approach only, no optional loops or viewpoint stops.
 - **Into Penang:** direct hotel entry, no Balik Pulau finish.
 - **Into Fraser Hill / Genting:** choose Genting if visibility is poor or the group is tired.
@@ -533,29 +481,30 @@ If rain becomes the deciding factor, use these rules instead of debating each le
 
 ## Quick Recommendation
 
-### Pick HatYai if you want
-- the easier overall pace,
-- the safer option for a mixed-experience group,
-- more food focus than riding focus,
-- less demanding border-to-destination riding.
+### Pick Kuantan -> Ipoh -> Malacca if you want
+- the east coast start and a gentler first day,
+- no Thailand border at all,
+- a cross-country highland day as the scenic centrepiece,
+- a 4-day loop with good food stops and a built-in buffer day.
 
 ### Pick Betong if you want
 - the better actual motorcycle route,
-- more satisfying bends,
-- a stronger scenic payoff,
+- more satisfying bends and a more compact 4-day loop,
+- a stronger scenic payoff, especially on Day 3 through the Gerik corridor into the highlands,
 - a trip that feels more like a ride and less like a long-distance food run.
 
-### Pick Kuala Lumpur -> Penang -> Ipoh -> Malacca if you want
-- the simplest multi-city route,
-- the lowest overall border complexity,
-- the best hotel and backup-options coverage,
-- a balanced trip that leans slightly more toward food and city comfort than technical riding.
+### Pick Mersing -> Genting -> Malacca if you want
+- the east coast route and a quieter first riding day,
+- the lowest overall mileage and the least border complexity,
+- a rest day built into the plan,
+- a balanced trip with more variety per leg than a straight expressway run.
 
 ### Best compromise
 
 If the group wants the best balance of effort vs reward, the strongest plan is:
 
-1. **Use the Betong route if the riders are comfortable with a slightly harder Day 2.**
+1. **Use the Betong route if the riders are comfortable with a harder Day 3 and want the best riding of the three options.**
 2. **Choose Fraser Hill over Genting if the weather is dry.**
 3. **Switch to Genting and direct hotel entries if rain starts dominating the trip.**
-4. **Use the Kuala Lumpur -> Penang -> Ipoh -> Malacca loop if the group decides comfort, flexibility, and easier logistics matter more than crossing into Thailand.**
+4. **Use the Kuantan -> Ipoh -> Malacca loop if the group wants an east coast start, no Thailand border, and a highland cross-country day as the highlight.**
+5. **Use the Mersing -> Genting -> Malacca loop if the group wants the lowest mileage, a rest day built in, and the simplest possible logistics.**
